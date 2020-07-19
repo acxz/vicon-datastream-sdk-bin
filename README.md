@@ -1,6 +1,6 @@
 # Vicon Datastream SDK (bin)
 
-This repository is a binary only mirror of [Vicon's Datastream SDK](https://www.vicon.com/software/datastream-sdk/).
+This repository is a Linux64 binary only mirror of [Vicon's Datastream SDK](https://www.vicon.com/software/datastream-sdk/).
 
 Vicon's Datastream SDK has been available under an MIT License since 1.8.0 and
 as such this repo serves to track the SDK as a git mirror for easier version
